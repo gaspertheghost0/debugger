@@ -27,13 +27,13 @@
 No external dependencies required. Just drop the file in your project:
 
 ```bash
-bestdebug.py
+debug/__init__.py
 ```
 
 Then in your Python code:
 
 ```python
-from bestdebug import log, timeit, assert_log, configure
+from debug import log, timeit, assert_log, configure
 ```
 
 ---
@@ -41,7 +41,7 @@ from bestdebug import log, timeit, assert_log, configure
 ## 🚀 Quick Start
 
 ```python
-from bestdebug import log, watch, timeit, assert_log
+from debug import log, watch, timeit, assert_log
 
 log("This is an info log")
 log("Something went wrong!", level="ERROR")
