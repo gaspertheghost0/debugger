@@ -1,5 +1,5 @@
 
-# 🐞 bestdebug.py — Ultimate Python Debugging Module (v4.0.0)
+# 🐞 DebugLogger — Ultimate Python Debugging Module (v4.0.0)
 
 **A flexible and powerful logging module for modern Python development.**
 
